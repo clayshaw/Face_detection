@@ -1,9 +1,0 @@
-__pycache__/
-.venv/
-.cpu_venv/
-.vscode/
-
-model/
-
-carema.py
-sb.py
