@@ -18,7 +18,7 @@
 - 偵測 : insightface
 - 辨識 : insightface
 - 圖形 : tkinter
-- 改善 : 分開相機流與偵偵測流，單獨各開thread，互不影響，偵數大幅上升
+- 改善 : 分開相機流與偵測流，單獨各開thread，互不影響，偵數大幅上升
 
 #### 測試環境
 - cpu : R7-6800H
